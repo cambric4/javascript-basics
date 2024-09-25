@@ -8,7 +8,7 @@
 </div>
 <div>
     <h1> Lesson 2: Data Types and Conditionals</h1>
-    <p> 09/21 - Created Exercise 1-4 from Odin Project Data types and Conditionals module.<p>
+    <p> 09/21 - Created Exercise 1-4 repositories from Odin Project Data types and Conditionals module.<p>
 </div>
 <div>
     <h1> Lesson 3: Javascript Developer tools</h1>
