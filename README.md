@@ -17,5 +17,9 @@
 <div>
     <h1> Lesson 4: Function Basics</h1>
     <p> 09/25 - Created Function basics folder and function-scope.html to assignment in Function Basics module of the Odin Project.</p>
-    <p> 09/27 - Created function-basics.html to do exercises on functions basics module.</p>
+    <p> 09/26 - Created function-basics.html to do exercises on functions basics module.</p>
+</div>
+<div>
+    <h1>Lesson 5: Problem Solving</h1>
+    <p> 09/27 - Created problem solving folder, and fizz-buzz.html outline to start fizz-buzz problem solving from Module.</p>
 </div>
