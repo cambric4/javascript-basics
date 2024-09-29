@@ -23,3 +23,7 @@
     <h1>Lesson 5: Problem Solving</h1>
     <p> 09/27 - Created problem solving folder, and fizz-buzz.html outline to start fizz-buzz problem solving from Module.</p>
 </div>
+<div>
+    <h1>Understanding Errors</h>
+    <p> 09/28 - Created folder, and made number-game-errors.html to follow along with Module assignment.</p>
+</div>
