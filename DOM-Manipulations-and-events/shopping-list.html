@@ -23,7 +23,7 @@
     <div>
       <label for="item">Enter a new item:</label>
       <input type="text" name="item" id="item">
-      <button>Add item</button>
+      <button id="myButton">Add item</button>
     </div>
 
     <ul>
@@ -32,6 +32,41 @@
 
     <script>
 
+        const input = document.querySelector(`input`);
+        const button = document.querySelector(`button`);
+
+        function lists() {
+            const ul = document.querySelector(`ul`);
+            const li = document.createElement(`li`);
+            li.textContent = input.value;
+            input.value = ``;
+
+            const deleteButton = document.createElement(`button`);
+            deleteButton.textContent = `Delete`;
+
+            deleteButton.addEventListener(`click`, () => {
+                ul.removeChild(li);
+        })
+
+        li.appendChild(deleteButton);
+
+        ul.appendChild(li);
+        input.value = ``;
+    
+    }
+
+        button.addEventListener(`click`, () => {
+           lists();
+        });
+
+        input.addEventListener(`keyup`, (event) => {
+            if (event.which === 13) {
+                lists()
+            }});
+        
+           
+            
+               
     </script>
   </body>
 </html>
