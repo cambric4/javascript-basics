@@ -24,6 +24,20 @@
     <p> 09/27 - Created problem solving folder, and fizz-buzz.html outline to start fizz-buzz problem solving from Module.</p>
 </div>
 <div>
-    <h1>Understanding Errors</h>
+    <h1>Understanding Errors</h1>
     <p> 09/28 - Created folder, and made number-game-errors.html to follow along with Module assignment.</p>
+    <p> 09/30 - finished number-game-erros.html</p>
+</div>
+<div>
+    <h1>Rock-Paper-Scissors Project</h1>
+    <p> 09/30-10/10 - See Rock Paper Scissors repository for all details</p>
+</div>
+<div>
+    <h1>Javascript Exercises</h1>
+    <p> 10/07-10/12 - See Javascript exercises repository for details</p>
+</div>
+<div>
+    <h1>DOM Manipulations and Events</h1>
+    <p> 10/12 - Created excersise-1</p>
+    <p> 10/14 - Created dom-exercise.js and shopping-list.html</p>
 </div>
